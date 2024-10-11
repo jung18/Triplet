@@ -1,5 +1,4 @@
-# Triplet
-
+![image](https://github.com/user-attachments/assets/bafa1bf2-4199-4a07-b93b-53538f8796e0)
 ---
 
 ## 목차
@@ -42,9 +41,10 @@
     여행이 끝난 후에도 기록과 결제 내역을 쉽게 확인하고 공유할 수 있도록 하여, 여행 후 가계부 작성이나 기록 작성에 불편함을 덜어줍니다.
 
 ## 기술 스택
-
+![erd2](https://github.com/user-attachments/assets/addf62fd-72fa-4d7f-a2ed-66ae105b7529)
 
 ### 아키텍처 설계도
+![erd1](https://github.com/user-attachments/assets/495b13cf-f66f-4d89-b9af-e099bf17e56b)
 
 ## 기능 소개
 
@@ -52,9 +52,19 @@
 
 ## 프로젝트 산출물
 ### 화면정의서
-
+![figma'](https://github.com/user-attachments/assets/f4e89074-2b9a-49bd-afe9-9cd17bf252c9)
 
 ### API 명세서
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/443e4ebd-8601-44e7-89b7-7ce117930de4" alt="image1"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8092fd07-cb57-4e3c-804d-bfbe821ccb3c" alt="image2"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f414ba33-a73c-47bf-8e4e-395e64d8ec47" alt="image3"/></td>
+    <td><img src="https://github.com/user-attachments/assets/30242433-eb62-46a6-87e5-4c08a0e742f0" alt="image4"/></td>
+  </tr>
+</table>
 
 ### ERD
+![TravelBank](https://github.com/user-attachments/assets/dd56c790-cd83-4c02-b9e2-f3896ee12531)
